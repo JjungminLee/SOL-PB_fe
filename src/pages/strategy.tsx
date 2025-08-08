@@ -1,6 +1,9 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import { useNavigate } from "react-router-dom";
+import { useUserStore } from "../store/useStore";
+import { getStrategy } from "../api/strategy-api";
+import LoadingView from "./loadingView";
 
 const Container = styled.div`
   padding: 2rem 1.5rem;
@@ -87,6 +90,51 @@ const NextButton = styled.button`
 
 export default function Strategy() {
   const navigate = useNavigate();
+  const {
+    isHomeless,
+    isMarried,
+    marriageYears,
+    childrenCount,
+    isHouseholder,
+    hasAccount,
+    hasHouseHistory,
+  } = useUserStore();
+
+  const [loading, setLoading] = useState(true);
+  const [strategy, setStrategy] = useState<{
+    regions: string[];
+    items: {
+      name: string;
+      date: string;
+      announce: string;
+      price: string;
+    }[];
+  }>({ regions: [], items: [] });
+
+  useEffect(() => {
+    const fetch = async () => {
+      setLoading(true);
+      try {
+        const result = await getStrategy({
+          isHomeless: isHomeless ?? false,
+          isMarried: isMarried ?? false,
+          marriageYears: Number(marriageYears ?? 0),
+          childrenCount: Number(childrenCount ?? 0),
+          isHouseholder: isHouseholder ?? false,
+          hasAccount: hasAccount ?? false,
+          hasHouseHistory: hasHouseHistory ?? false,
+        });
+
+        setStrategy(result);
+      } catch (err) {
+        console.error(err);
+      }
+      setLoading(false);
+    };
+    fetch();
+  }, []);
+
+  if (loading) return <LoadingView />;
 
   return (
     <Container>
@@ -101,25 +149,20 @@ export default function Strategy() {
         </Header>
 
         <SectionTitle>추천 지역</SectionTitle>
-        <RegionList>경기도 고양시　　경기도 남양주시</RegionList>
+        <RegionList>{strategy.regions.join("　　")}</RegionList>
 
         <Divider />
 
         <SectionTitle>청약 추천리스트</SectionTitle>
         <CardList>
-          <Card>
-            <AptName>고양시 A아파트 (신혼부부 특별공급)</AptName>
-            <Label>접수　2025.08.15 ~ 2025.08.17</Label>
-            <Label>발표　2025.08.24</Label>
-            <Label>분양가 7억 3800만원</Label>
-          </Card>
-
-          <Card>
-            <AptName>고양시 A아파트 (신혼부부 특별공급)</AptName>
-            <Label>접수　2025.08.15 ~ 2025.08.17</Label>
-            <Label>발표　2025.08.24</Label>
-            <Label>분양가 7억 3800만원</Label>
-          </Card>
+          {strategy.items.map((item, idx) => (
+            <Card key={idx}>
+              <AptName>{item.name}</AptName>
+              <Label>접수　{item.date}</Label>
+              <Label>발표　{item.announce}</Label>
+              <Label>분양가 {item.price}</Label>
+            </Card>
+          ))}
         </CardList>
       </div>
 

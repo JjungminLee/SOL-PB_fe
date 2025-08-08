@@ -3,93 +3,333 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:당산역 더클래스 한강
-UID:a18a4d8e-6fdd-4f33-ba59-8f6b87de6236@a18a.org
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:제기동역 아이파크
+UID:09806d30-3e8a-470e-af6c-fc96c5a50910@0980.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:청주 센텀 푸르지오 자이
+UID:466e000a-ac28-4195-9204-d9bfcd613aaa@466e.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:전주 라온프라이빗 퍼스티브
+UID:69cd2c58-09f1-4bb9-a67b-180fd2d963d8@69cd.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
 SUMMARY:광양만권경제자유구역 신대배후단지 B-6BL 중흥S-클래스 5단지
-UID:080d3ae9-a0bf-40ee-b9df-41be1c5c2774@080d.org
+UID:c39c64f3-48b3-493c-a50e-cfcc887bdd48@c39c.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:[신혼부부] 양산물금2 천년나무 행복주택(대학생\,청년) 예비입주자 완화모집(소득\,총자산 배제 및 무주택 요건완화)
-UID:9cbd46d5-1293-40cc-8219-28368ef5fbb0@9cbd.org
+DTEND:20250808T000000Z
+DTSTART:20250808T000000Z
+SUMMARY:[신혼부부] 영암학산 행복임대주택 예비자 모집공고(2025.08.08)
+UID:00bb2888-3ebf-4944-a5a7-ace3ae4e3177@00bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:[신혼부부] 2025년 하반기 부산광역시 영구임대주택 예비입주자 모집공고(2025. 8. 1.)
-UID:e7d50aa3-5875-4146-a90e-092651fae401@e7d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:신도림역 동문 디 이스트(4차)
-UID:a6858975-125b-471d-9422-3c5da06cc8db@a685.org
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:트리븐 창원
+UID:eadb7fa2-2baa-497c-ae1f-1127b66db895@eadb.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:[신혼부부] ‘2025.8.1. 광양와우·여수관문 행복주택 예비입주자 모집(입주자격완화)
-UID:cd0bb8d2-4fc2-4513-ab7f-4a63f9221f68@cd0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:부천아테라자이(부천괴안지구 B-2블록)(12차)
-UID:5924bea5-d4bc-4d70-a973-de786663efe7@5924.org
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:강동 디 아테온(THE ATHEON)
+UID:4da8c534-f857-42f1-afbc-ba6d94f159fa@4da8.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250731T000000Z
-DTSTART:20250731T000000Z
-SUMMARY:[신혼부부] 정정공고시흥시 행복주택 예비입주자 모집(2025.07.31)
-UID:ec197562-aa35-4431-a88d-4fb0d621d5f5@ec19.org
+DTEND:20250808T000000Z
+DTSTART:20250808T000000Z
+SUMMARY:[신혼부부] 청주산남2-2 영구임대주택 예비입주자 모집
+UID:588dbb4e-f658-422d-8c61-307011ef87ac@588d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:정읍 상동 예다음2차
+UID:29abe7df-5029-47a7-8c19-4022dafeb972@29ab.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:트리븐 창원
+UID:aafb7aeb-8976-449d-80bc-48613fb2cd83@aafb.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:힐스테이트 용인마크밸리
+UID:1ded4fd4-8f12-47c6-a7b2-99f9674e1e6a@1ded.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:제기동역 아이파크
+UID:b3a3b7c5-43a0-4dc9-9a3f-0212ad6815d9@b3a3.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:전주 라온프라이빗 퍼스티브
+UID:5550aa5b-d02a-42db-9513-36145f09c939@5550.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
 SUMMARY:의정부역 다채로움(2차)
-UID:959cfd7e-a4f6-47cd-9b0d-f3fdf4f1aaf5@959c.org
+UID:f7c78b81-aec7-48e1-817f-16f7ea9b524d@f7c7.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:호반써밋 개봉(7차)
-UID:aa11a30b-7664-45aa-9886-154cc5a91e3e@aa11.org
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:당산역 더클래스 한강
+UID:6e062ee4-7448-4931-99f2-ee682edcd37e@6e06.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:세종 5-1 양우내안애 아스펜(5차)
-UID:9a673468-bbc4-4902-8782-a83849d819d1@9a67.org
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:춘천 동문 디 이스트 어반포레
+UID:815dc661-3d24-4400-8e2d-dfd6f9c2791d@815d.org
 URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:청약 일정입니다.
-DTEND:20250801T000000Z
-DTSTART:20250801T000000Z
-SUMMARY:[신혼부부] 병점복합타운 A1블록 행복주택 입주자격완화 예비입주자 모집
-UID:02410bc0-b004-423b-914c-41266c498527@0241.org
+DTEND:20250808T000000Z
+DTSTART:20250808T000000Z
+SUMMARY:[신혼부부] 김제하동 국민임대주택 모집공고
+UID:c95066a1-4e7f-4694-8595-1e88ba4ba0d7@c950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:전주 라온프라이빗 퍼스티브
+UID:4a847531-71ef-4761-853e-e74423fa09d0@4a84.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:트리븐 창원
+UID:7a077ba3-ffbc-44a4-8751-669df261fcb4@7a07.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:아산탕정자이 센트럴시티(A2BL)
+UID:9a02c360-89ff-4a47-a726-96fa83f42387@9a02.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:원종 휴먼빌 클라츠(2차)
+UID:b53af164-b77f-4c22-8de4-2f98d51d9004@b53a.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250808T000000Z
+DTSTART:20250808T000000Z
+SUMMARY:[신혼부부] 익산한스빌 국민임대주택 예비입주자 완화 모집공고
+UID:e343bd12-3fef-4a4a-90d2-f2c545a2ea37@e343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:어나드 범어
+UID:7b826d5f-04c8-4797-ad59-2294dcab24b1@7b82.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:정읍 상동 예다음2차
+UID:02acacf8-2650-4d3b-a9c0-05f7fcf8d13f@02ac.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:춘천 동문 디 이스트 어반포레
+UID:9799c03a-3f90-4550-b0da-20d388b300a3@9799.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:힐스테이트 용인마크밸리
+UID:ab08577e-a182-4124-bf8d-8eaf75c7a7a7@ab08.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:춘천 동문 디 이스트 어반포레
+UID:7fc6f1e5-ad60-43a0-b71f-c3e86f3d459a@7fc6.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:정읍 상동 예다음2차
+UID:15c1decd-1554-4916-abbc-a4075b46f25c@15c1.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:서대문 센트럴 아이파크
+UID:c25f18c6-cf83-49f7-b262-2faa5458ac25@c25f.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:선화동 참좋은아파트 우선분양전환 후 잔여세대(2차)
+UID:c9b1fec2-3244-443a-96a2-836e7fb08442@c9b1.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:청주 센텀 푸르지오 자이
+UID:c43b96e5-5134-44db-b2d8-b323d2af818f@c43b.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:호현 센트럴 아이파크
+UID:8c57e5f0-8ca9-40d2-bc88-2d68ae25697e@8c57.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250807T000000Z
+DTSTART:20250807T000000Z
+SUMMARY:북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (3차)
+UID:fa248ddc-fcce-4a26-bcbe-0dfdc60bb0c1@fa24.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250807T000000Z
+DTSTART:20250807T000000Z
+SUMMARY:서울원 아이파크(4차)
+UID:ee6653de-8bad-42f9-a01e-a09edf4f1636@ee66.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250805T000000Z
+DTSTART:20250805T000000Z
+SUMMARY:선화동 참좋은아파트 우선분양전환 후 잔여세대(2차)
+UID:b043c741-b22e-4934-8b5b-dde46e9d94bc@b043.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250808T000000Z
+DTSTART:20250808T000000Z
+SUMMARY:[신혼부부] 행정중심복합도시 수루배8단지 영구임대 입주자격완화 입주자 모집공고(2025.8.8.)
+UID:4ead8ad0-98ee-474c-b796-330c77adf77c@4ead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250808T000000Z
+DTSTART:20250808T000000Z
+SUMMARY:대전 하늘채 루시에르(1회차)
+UID:a6d31f1a-7b98-4a64-9d19-a06e489f0ff8@a6d3.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:청주 센텀 푸르지오 자이
+UID:2364dc7e-7b11-401d-b9d3-c05073a003d7@2364.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (3차)
+UID:c37ebccb-75ab-4461-8598-d5bbbe3ade29@c37e.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250804T000000Z
+DTSTART:20250804T000000Z
+SUMMARY:당산역 더클래스 한강
+UID:c83bbf8f-5ea9-422d-8820-501acf539a3c@c83b.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250806T000000Z
+DTSTART:20250806T000000Z
+SUMMARY:해링턴 스퀘어 리버파크
+UID:50f0631d-bc34-459b-8ffe-a502a77d43fe@50f0.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:청약 일정입니다.
+DTEND:20250807T000000Z
+DTSTART:20250807T000000Z
+SUMMARY:제기동역 아이파크
+UID:0965fb30-eab1-4599-a50a-f0694068fb01@0965.org
+URL:https://www.applyhome.co.kr/ai/aib/selectSubscrptCalenderView.do#a
 END:VEVENT
 END:VCALENDAR
