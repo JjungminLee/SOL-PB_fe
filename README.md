@@ -3,6 +3,10 @@
 AI가 함께하는 **스마트 주택 청약 준비 도우미** 🏡  
 청약 일정 관리부터 추천 지역, 이후 자금 계획까지 한 번에 해결하세요.
 
+
+https://github.com/user-attachments/assets/0218c1ee-cb00-4fd4-afb9-c67936a941f4
+
+
 ---
 
 ## ✨ 주요 기능
