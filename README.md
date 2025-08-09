@@ -3,9 +3,7 @@
 AI가 함께하는 **스마트 주택 청약 준비 도우미** 🏡  
 청약 일정 관리부터 추천 지역, 이후 자금 계획까지 한 번에 해결하세요.
 
-
 https://github.com/user-attachments/assets/0218c1ee-cb00-4fd4-afb9-c67936a941f4
-
 
 ---
 
@@ -70,17 +68,25 @@ https://github.com/user-attachments/assets/0218c1ee-cb00-4fd4-afb9-c67936a941f4
 
 ```bash
 # 1. 저장소 클론
-git clone https://github.com/JjungminLee/SOL-PB_fe.git
-cd sol-pb
+git clone https://github.com/JjungminLee/SOL-PB-be.git
+cd sol-pb-be
 
 # 2. 가상환경 및 패키지 설치
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
+source venv/bin/activate
+pip install fastapi uvicorn selenium ics==0.7.1 mangum openai
 
 # 3. 환경변수 설정
-# strategy_api.py 의 15번째 줄에 제공해 드린 API Key를 넣어주시면 테스트 가능합니다.
+# strategy_api.py 의 25번째 줄에 제공해 드린 API Key를 넣어주시면 테스트 가능합니다.
 
 # 4. 백엔드 서버 실행
+unalias python
+source venv/bin/activate
+which python
 uvicorn app:app --reload --port 8000
+
+# 5. 프론트 서버 실행
+yarn install
+yarn dev # 5173번 포트에서 실행
+
 ```
